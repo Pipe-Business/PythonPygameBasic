@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>폭탄피하기게임</string>
+	<key>CFBundleExecutable</key>
+	<string>폭탄피하기게임</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-ee34a810cdf3d19410bfd49fdc802ed8e792046670fabd1b2e371ffc4ad21b70.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>폭탄피하기게임</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>폭탄피하기게임</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
